@@ -157,30 +157,7 @@ public class DoWhile2 {
  - Imprimir los números primos del 1 al 100.
 
  ```java
- import java.util.Scanner;
-
-public class NumerosPrimos {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        boolean primo;
-        System.out.println("Son numeros primos del 1 al 100: \n");
-        for (int num = 2; num <= 100; num++) {
-            primo = true;
-            for (int i = num - 1; i > 1; i--) {
-                if (num % i == 0) {
-                    primo = false;
-                    break;
-                }
-            }
-            if (primo) {
-                System.out.println(num + "es primo");
-            }
-
-        }
-
-    }
-
-}
+ 
  
  ```
 
