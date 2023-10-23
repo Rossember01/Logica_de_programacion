@@ -96,7 +96,7 @@ public class MovimientoParabolico {
 }
 ```
 
-# explicacion
+# Explicación
 
 - Se ingresan todos los datos relacionados con un objeto en movimiento, se caluculan las propiedades claves del movimiento, entre ellas, la distancia recorrida, el tiempo de vuelo y la altura maxima.
 
