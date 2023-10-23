@@ -1,7 +1,7 @@
 <!-- No borrar o modificar -->
 [Inicio](./index.md)
 
-## Sesión 9 
+## Sesión 9 Rossember Restrepo - Natalia Alzate
 ```java
 
 import java.util.Scanner;
